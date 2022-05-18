@@ -1,1 +1,4 @@
-Command for adding new file is touch <filename>
+touch up_to_date
+git add up_to_date
+git commit -m  "message"
+git push
